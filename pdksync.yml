@@ -1,0 +1,5 @@
+---
+namespace: 'gernox'
+git_base_uri: 'git@github.com'
+create_pr_against: 'production'
+pdksync_label: 'maintenance'

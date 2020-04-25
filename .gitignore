@@ -1,0 +1,16 @@
+# VIM files
+*.swp
+*.swo
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+/tmp/
+/modules/
+/.bundle/
+/Gemfile.local
+/.bundle/
+/.idea/
+/.metadata
+/modules_pdksync/
